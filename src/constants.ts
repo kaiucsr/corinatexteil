@@ -13,7 +13,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#FFFFFF', '#4A6741', '#6D4C7D', '#E5E7EB'],
     category: 'Toalhas',
     subCategory: 'Toalha de banho',
-    image: '/toalha(1).png'
+    image: '/toalha(15).png'
   },
   {
     id: '2',
@@ -23,7 +23,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#FFFFFF', '#4A6741', '#F3F4F6'],
     category: 'Toalhas',
     subCategory: 'Toalha de rosto',
-    image: '/toalha(2).png'
+    image: '/toalha(16).png'
   },
   {
     id: '3',
@@ -33,7 +33,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#2D4F1E', '#4B2C5E', '#FFFFFF'],
     category: 'Toalhas',
     subCategory: 'Banhão',
-    image: '/toalha(3).png'
+    image: '/toalha(17).png'
   },
   {
     id: '4',
@@ -43,7 +43,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#FFFFFF', '#6D4C7D'],
     category: 'Toalhas',
     subCategory: 'Toalha social',
-    image: '/toalha(4).png'
+    image: '/toalha(18).png'
   },
   {
     id: '5',
@@ -53,7 +53,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#FFFFFF', '#4A6741', '#D1D5DB'],
     category: 'Toalhas',
     subCategory: 'Toalha lavabo',
-    image: '/toalha(5).png'
+    image: '/toalha(19).png'
   },
   {
     id: '6',
@@ -63,7 +63,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#FFFFFF', '#F9FAFB'],
     category: 'Panos de prato',
     subCategory: 'Panos de prato',
-    image: '/toalha(6).png'
+    image: '/toalha(20).png'
   },
   {
     id: '7',
@@ -73,7 +73,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#4A6741', '#6D4C7D', '#374151'],
     category: 'Tapetes',
     subCategory: 'Tapetes',
-    image: '/toalha(7).png'
+    image: '/toalha(21).png'
   },
   {
     id: '8',
@@ -83,7 +83,7 @@ export const PRODUCTS: Product[] = [
     colors: ['#4A6741', '#FFFFFF', '#6D4C7D'],
     category: 'Tapetes',
     subCategory: 'Tapetes pezinho',
-    image: '/toalha(8).png'
+    image: '/toalha(22).png'
   },
   {
     id: '9',
@@ -93,6 +93,6 @@ export const PRODUCTS: Product[] = [
     colors: ['#FFFFFF', '#E5E7EB', '#4A6741'],
     category: 'Toalhas',
     subCategory: 'Toalha de banho',
-    image: '/toalha(9).png'
+    image: '/toalha(23).png'
   }
 ];
